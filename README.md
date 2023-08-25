@@ -70,5 +70,13 @@ view more info about clinic
 
 
 ### Part 2
+System Requirements
+You’ll need Node.js installed.
+
+Install at least v16.x or higher as this is the oldest active LTS version
+Only releases that are or will become an LTS release are officially supported
+If Node is not currently installed on your system, we suggest utilizing a tool such as NVM or Volta to assist in managing multiple active Node.js versions. NVM is a popular choice, while Volta is also a good alternative.
+
+Then clone the project from github and run the `npm run wdio` command in the terminal to start running the test scripts.
 
 
